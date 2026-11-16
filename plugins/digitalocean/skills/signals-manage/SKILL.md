@@ -1,5 +1,5 @@
 ---
-name: do-signals
+name: signals-manage
 description: >-
   Read and change DigitalOcean Signals consent, list sessions and dialogues,
   and create or download Signals exports for Harness Runtime environments and
